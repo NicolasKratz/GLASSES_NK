@@ -1,0 +1,6 @@
+Owner: Nicolas Kratz	nicolas.b.kratz@gmail.com
+Collaborators:
+	Maxim
+	Nico
+	Joey
+
